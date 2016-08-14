@@ -1,0 +1,139 @@
+[{
+	"key": "c++",
+	"val": " C++11,C++14,c,cplusplus,cpp, c plus plus,.cpp,Multi-paradigm, procedural, functional, object-oriented, generic,object,oriented,programming, language,OOPS,o o p s, system programming and embedded, resource-constrained, large systems, cross-platform,LLVM Clang, GCC, Microsoft Visual C++, Embarcadero C++Builder, Intel C++ Compiler, IBM XL C++,"
+}, {
+	"key": "Java",
+	"val": "object,oriented,programming, language,OOPS,o o p s,cross-platform, write once run anywhere, WORA,multi-paradigm, object-oriented,class-based,class, structured, imperative, generic, reflective, concurrent,JVM,high level,interpreted, threaded, dynamic,oak,thread,multi,high performance,robust,secure,portable,JDK,jaava,.java"
+}, {
+	"key": "C",
+	"val": "programming, language,low level, imperative, structured programming, lexical variable scope , recursion,comppliers, Unix, procedural,.c "
+}, {
+	"key": "python",
+	"val": "high-level, general-purpose, interpreted, dynamic programming language,pithon,multi-paradigm, object-oriented, imperative, functional, procedural, reflective,dynamic type,automatic memory management,automatic memory management, Py2exe , Pyinstalle,py,CPython,duck typing, dynamic, strong, gradual,.py, .pyc, .pyd, .pyo, pyw, .pyz,IronPython, Jython, PyPy,Cython, RPython, Stackless Python,"
+}, {
+	"key": "backend",
+	"val": "back end, b e, be,back,database,sql,integration"
+}, {
+	"key": "javascript",
+	"val": "js,jscript, j script"
+}, {
+	"key": "OWASP",
+	"val": "Open Web Application Security Project, web application security,Vulnerability Assessment,online community ,Industry standards, Conferences, Workshops,freely-available articles, methodologies, documentation, tools, and technologies"
+}, {
+	"key": "JUnit",
+	"val": "Unit testing ,tool,framework,test-driven development,xUnit,SUnit,JAR,cross-platform"
+}, {
+	"key": "c#",
+	"val": "sharp,csharp,c sharp,multi-paradigm, structured, imperative, object-oriented, event-driven, task-driven, functional, generic, reflective, concurrent,multi,threaded,.NET,microsoft,MS,.cs,, .NET Framework, Mono, DotGNU,static, dynamic, strong, safe,embedded systems,"
+}, {
+	"key": "GNU",
+	"val": "operating system, g n u,os,linux,free software,open source,kernel"
+}, {
+	"key": "LESS",
+	"val": "CSS,pre-processorles, l e s"
+}, {
+	"key": "SASS",
+	"val": "CSS, extension,sas,s a s"
+}, {
+	"key": "pascal",
+	"val": "turbo,paskal, procedural, programming, language, imperative"
+}, {
+	"key": "Testing",
+	"val": "test, tester,fixer"
+}, {
+	"key": "debugging",
+	"val": "bug, bugger, debugger, tester"
+}, {
+	"key": "CASE",
+	"val": "metaCASE,tools"
+}, {
+	"key": "metaCASE",
+	"val": "meta, case"
+}, {
+	"key": "rexx",
+	"val": "restructured extended executor,testing"
+}, {
+	"key": "Hibernate",
+	"val": "framework,web,hbr,hiber,application"
+}, {
+	"key": "Spring",
+	"val": "framework,application,backend"
+}, {
+	"key": "Servlets",
+	"val": "jsp,servelet,java,server, Java EE,enterprise,API, HTTP protocol,http,"
+}, {
+	"key": "PERL",
+	"val": "pearl"
+}, {
+	"key": "Code Blocks",
+	"val": "IDE,software,programming,platform, software,cross-platform"
+}, {
+	"key": "BlueJ",
+	"val": "IDE, software,programming,platform, blue j"
+}, {
+	"key": "Eclipse",
+	"val": "IDE,software,JEE,programming},{ workspace,open source,SDK, platform,software development kit ,Rich Client Platform,RCP, mars,neon,indigo,juno,helios, galileo,luna, oxygen"
+}, {
+	"key": "ruby",
+	"val": "dynamic, reflective, object-oriented, general-purpose programming language,rails, backend, "
+}, {
+	"key": "LaTeX",
+	"val": "markup, language,latex,tex,pdf,document,style,writing,scientific,mathematical,typography,formatting"
+}, {
+	"key": ".NET",
+	"val": "Framework,dot net, Common Language Runtime,CLR,Microsoft,windows, Framework Class Library,FCL, user interface, data access, database connectivity, cryptography, web application development, numeric algorithms, network communications, security, memory management, exception handling,mobile ,Visual Studio, VB, embedded device "
+}, {
+	"key": "HTML",
+	"val": "h t m l,scripting,HyperText Markup Language,.html,.htm, web pages,website,structured,HTML Dynamic HTML,HTML5 ,XHTML,,element,span, div,attribute, frame ,editor,Character encodings,Unicode,Language,Document Object Model,DOM,Browser Object Model,Font family Web colors, Web browser,semantic,tags,SGML "
+}, {
+	"key": "CSS",
+	"val": "CSS3,CSS4, CSS 3, CSS 4, CSS1, CSS2, CSS 1, CSS 2,Cascading Style Sheets ,style sheet language,resentation,user interface, ui, layout, colors,  fonts, graphic design,colors,website, web browser, client side,Zen, dynamicCSS, accessibility"
+}, {
+	"key": "jdk",
+	"val": "Java Development Kit, Java SE, Java EE , Java ME, platform, Oracle,free, opensource, sdk"
+}, {
+	"key": "Android Studio",
+	"val": "Android, SDK, mobile, phone, tablet, os, operating system, google, nexus,Linux kernel,touchscreen, direct manipulation,user interface, ui, Unix-like,Open Handset Alliance,Google Play, APK,Multi-touch,Monolithic , high-tech,RAM,tv, wear,mashmallow, lollipop,gingerbread,kitkat,honeycomb,app,apps,application,focus, camera, bluetooth,gps, sensors,processor,studio,software devlopment kit, development"
+}, {
+	"key": "git",
+	"val": "software,  source code, management system , software development, distributed revision control system, speed,data integrity,distributed,non-linear workflows,Linux, kernel,developers, development, agile,hub, github,git desktop, sourcetree, sharing, pull, push, fetch, code, coding, website "
+}, {
+	"key": "Matlab",
+	"val": "matrix laboratory, LINPACK , EISPACK, multi-paradigm, LAPACK,control engineering, linear algebra,image processing,scripting language, analysis, numerical computing, environment, fourth-generation, programming language, matrix manipulations, plotting, functions,implementation of algorithms,user interface,dynamic, weak,MuPAD symbolic engine,.m,symbolic computing,graphical multi-domain simulation ,model-based design,embedded systems"
+}, {
+	"key": "India",
+	"val": "location,address,gps,country,ind,"
+}, {
+	"key": "Andhra",
+	"val": "location,address,gps,state,pradesh,india,ap,a p,andra, hyderabad, vizag"
+}, {
+	"key": "Karnataka",
+	"val": "location,address,gps,state,india,bangalore,krntka,ktka,krn"
+}, {
+	"key": "Bangalore",
+	"val": "location,address,gps,city,india,bengaluru,office,silicon valley"
+}, {
+	"key": "Hyderabad",
+	"val": "location,address,gps,city,india,pearl city, diamond city, kohinoor, biryani, nizam, mircosoft, google, facebook, Amazon, Hi-tech City, Banjara, hills, outer ring road, jubilee,charminar"
+}, {
+	"key": "new delhi",
+	"val": "delhi, ncr, new, noida, capital, location,address,gps,city,capital,taj,mahal,agra,india,gurgoan, haryana,National Capital Region"
+}, {
+	"key": "New York",
+	"val": "location,address,gps,city,newyork,abroad, america, forigen, silicon valley,USA,states"
+}, {
+	"key": "California",
+	"val": "location,address,gps,city,calefornia,abroad, america, forigen, silicon valley,USA,states"
+}, {
+	"key": "dubai",
+	"val": "location,address,gps,city,abroad, UAE, forigen, ARAB, middle east, "
+}, {
+	"key": "London",
+	"val": "location,address,gps,city,UK, europe, england"
+}, {
+	"key": "Sydney",
+	"val": "location,address,gps,city,Australia"
+}, {
+	"key": "Pune",
+	"val": "location,address,gps,city,india,maharastra,"
+}]

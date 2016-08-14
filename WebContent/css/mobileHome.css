@@ -1,0 +1,333 @@
+@media only screen and (min-device-width: 320px) and (max-device-width: 379px) {
+    #home-carousel div.carousel-caption {
+        width: 100%;
+        left: 0;
+    }
+    header#navigation {
+        width: 375px;
+    }
+    figure.about-us {
+        margin-left: 0;
+    }
+    figure.mix.testimonials-item img {
+        width: 350px !important;
+        padding: 10px;
+    }
+    .testimonials-item {
+        width: 350px !important;
+    }
+    div.fancybox-wrap.fancybox-desktop.fancybox-type-image.fancybox-opened div.fancybox-inner {
+        width: 100% !important
+    }
+    div.fancybox-wrap.fancybox-desktop.fancybox-type-image.fancybox-opened {
+        width: 90% !important;
+    }
+    div.login-info {
+        margin: 0;
+        width: 100%;
+    }
+    #login-form label.data-label {
+        display: none;
+    }
+    #login-form {
+        width: 95% !important;
+    }
+    #login-form .data {
+        width: 100% !important;
+        margin: 10px;
+    }
+    .login-info span.new-user {
+        margin-left: 0;
+    }
+    .login-info span.new-user button {
+        margin-right: 5px;
+        width: 23%!important;
+    }
+    #btnSubmit {
+        margin-left: 5px;
+        width: 23%;
+    }
+    #valid.error-message p {
+        padding-top: 0;
+    }
+    #myModal .reg_form_page.reg-info h3 {
+        margin-left: 14% !important;
+    }
+    #regform label {
+        display: none;
+    }
+    .navbar-toggle {
+        margin-right: 30px!important;
+        margin-top: 20px!important
+    }
+    .navbar-brand {
+        margin-left: 15px;
+    }
+    #mainCaptcha {
+        width: 80%!important;
+    }
+    #regform input,
+    #regform select {
+        width: 100% !important;
+        margin-left: -60px !important;
+    }
+    #regform img[data-toggle='tooltip'] {
+        width: 5%;
+    }
+    #regform input[value='Check'] {
+        width: 63px !important;
+        margin-left: 0px !important;
+    }
+    #regform #usernameReg {
+        width: 69% !important;
+    }
+    #regform input[type='checkbox'] {
+        width: auto !important;
+        margin-left: -37% !important;
+    }
+    #regform label.gender-label {
+        display: inline-block !important;
+    }
+    #regform input[type='submit'] {
+        width: auto !important;
+        margin-left: -10% !important;
+    }
+    #regform input[type='reset'] {
+        width: auto !important;
+        margin-right: 21% !important;
+    }
+    #regform select {
+        width: 94% !important;
+    }
+    #regform .reg-container {
+        margin-bottom: 10px;
+    }
+    #regform .reg-container span {
+        display: block;
+    }
+    .mapImage {
+        width: 330px !important;
+    }
+}
+
+@media only screen and (min-device-width: 310px) and (max-device-width: 350px) {
+    .navbar-toggle {
+        margin-right: 30px!important;
+        margin-top: 20px!important
+    }
+    .navbar-brand {
+        margin-left: 15px;
+    }
+    #home-carousel div.carousel-caption {
+        width: 100%;
+        left: 0;
+    }
+    header#navigation {
+        width: 320px;
+    }
+    figure.about-us {
+        margin-left: 0;
+    }
+    figure.mix.testimonials-item img {
+        width: 295px !important;
+        padding: 10px;
+    }
+    .testimonials-item {
+        width: 295px !important;
+    }
+    div.fancybox-wrap.fancybox-desktop.fancybox-type-image.fancybox-opened div.fancybox-inner {
+        width: 100% !important
+    }
+    div.fancybox-wrap.fancybox-desktop.fancybox-type-image.fancybox-opened {
+        width: 90% !important;
+    }
+    div.login-info {
+        margin: 0;
+        width: 100%;
+    }
+    #login-form label.data-label {
+        display: none;
+    }
+    #login-form {
+        width: 95% !important;
+    }
+    #login-form .data {
+        width: 100% !important;
+        margin: 10px;
+    }
+    .login-info span.new-user {
+        margin-left: 0;
+    }
+    .login-info span.new-user button {
+        margin-right: 10px;
+    }
+    #btnSubmit {
+        margin-left: 10px;
+    }
+    #valid.error-message p {
+        padding-top: 0;
+    }
+    #myModal .reg_form_page.reg-info h3 {
+        margin-left: 14% !important;
+    }
+    #regform label {
+        display: none;
+    }
+    #regform input,
+    #regform select {
+        width: 100% !important;
+        margin-left: -60px !important;
+    }
+    #regform img[data-toggle='tooltip'] {
+        width: 5%;
+    }
+    #regform input[value='Check'] {
+        width: 63px !important;
+        margin-left: 0px !important;
+    }
+    #regform #usernameReg {
+        width: 69% !important;
+    }
+    #regform input[type='checkbox'] {
+        width: auto !important;
+        margin-left: -37% !important;
+    }
+    #regform label.gender-label {
+        display: inline-block !important;
+    }
+    #regform input[type='submit'] {
+        width: auto !important;
+        margin-left: -10% !important;
+    }
+    #regform input[type='reset'] {
+        width: auto !important;
+        margin-right: 21% !important;
+    }
+    #regform select {
+        width: 94% !important;
+    }
+    #regform .reg-container {
+        margin-bottom: 10px;
+    }
+    #regform .reg-container span {
+        display: block;
+    }
+    .mapImage {
+        width: 330px !important;
+    }
+}
+
+@media only screen and (min-device-width: 380px) and (max-device-width: 766px) {
+    #btnSubmit {
+        margin-left: 5px;
+        width: 23%;
+    }
+    .login-info span.new-user button {
+        margin-right: 5px;
+        width: 23%!important;
+    }
+    .navbar-brand {
+        margin-left: 15px;
+    }
+    #home-carousel div.carousel-caption {
+        width: 100%;
+        left: 0;
+    }
+    .navbar-toggle {
+        margin-right: 30px!important;
+        margin-top: 20px!important
+    }
+    header#navigation {
+        width: 414px;
+    }
+    figure.about-us {
+        margin-left: 0;
+    }
+    figure.mix.testimonials-item img {
+        width: 390px !important;
+        padding: 10px;
+    }
+    .testimonials-item {
+        width: 350px !important;
+    }
+    div.fancybox-wrap.fancybox-desktop.fancybox-type-image.fancybox-opened div.fancybox-inner {
+        width: 100% !important
+    }
+    div.fancybox-wrap.fancybox-desktop.fancybox-type-image.fancybox-opened {
+        width: 90% !important;
+    }
+    div.login-info {
+        margin: 0;
+        width: 100%;
+    }
+    #login-form label.data-label {
+        display: none;
+    }
+    #login-form {
+        width: 95% !important;
+    }
+    #login-form .data {
+        width: 100% !important;
+        margin: 10px;
+    }
+    .login-info span.new-user {
+        margin-left: 0;
+    }
+    .login-info span.new-user button {
+        margin-right: 10px;
+    }
+    #btnSubmit {
+        margin-left: 10px;
+    }
+    #valid.error-message p {
+        padding-top: 0;
+    }
+    #myModal .reg_form_page.reg-info h3 {
+        margin-left: 14% !important;
+    }
+    #regform label {
+        display: none;
+    }
+    #regform input,
+    #regform select {
+        width: 100% !important;
+        margin-left: -60px !important;
+    }
+    #regform img[data-toggle='tooltip'] {
+        width: 5%;
+    }
+    #regform input[value='Check'] {
+        width: 63px !important;
+        margin-left: 0px !important;
+    }
+    #regform #usernameReg {
+        width: 69% !important;
+    }
+    #regform input[type='checkbox'] {
+        width: auto !important;
+        margin-left: -37% !important;
+    }
+    #regform label.gender-label {
+        display: inline-block !important;
+    }
+    #regform input[type='submit'] {
+        width: auto !important;
+        margin-left: -10% !important;
+    }
+    #regform input[type='reset'] {
+        width: auto !important;
+        margin-right: 21% !important;
+    }
+    #regform select {
+        width: 94% !important;
+    }
+    #regform .reg-container {
+        margin-bottom: 10px;
+    }
+    #regform .reg-container span {
+        display: block;
+    }
+    .mapImage {
+        width: 330px !important;
+    }
+}

@@ -1,0 +1,234 @@
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    padding-top: 100px;
+    /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+.ge-logo {
+    width: 160px;
+    height: 60px;
+}
+
+.test-img-responsive {
+    height: 251px;
+    width: 322px;
+}
+
+
+/* Modal Content */
+
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 90%;
+    height: 570px;
+    opacity: 1;
+}
+
+#login {
+    height: 682px;
+}
+
+#login .container {
+    padding-top: 30px;
+}
+
+
+/* The Close Button */
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 40px;
+    font-weight: bold;
+    visibility: visible!important;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#login-form {
+    height: 180px;
+    width: 600px;
+}
+
+.login-info {
+    margin: 0 300px;
+    width: 560px;
+}
+
+#login-form .data {
+    height: 40px;
+    width: 265px;
+    float: left;
+}
+
+.data {
+    width: 250px;
+    float: left;
+}
+
+.data-label {
+    margin-bottom: 15px;
+    margin-right: 80px;
+    line-height: 40px;
+    float: left;
+    width: 80px;
+}
+
+#submit-button {
+    width: 130px;
+    float: left;
+    margin-left: 50px;
+}
+
+.error-message {
+    float: right;
+    line-height: 35px;
+}
+
+.new-user {
+    margin-left: 30%;
+    line-height: 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#register-button {
+    width: 130px;
+    float: right;
+}
+
+.mail-success{
+	width: 50%;
+    margin-left: 22%;
+    margin-top: 3%;
+    font-weight: 400;
+    color: green;
+    font-size: 15px;
+    border: none;
+    overflow: hidden;
+}
+
+.mail-failure{
+	width: 50%;
+    margin-left: 22%;
+    margin-top: 3%;
+    font-weight: 400;
+    color: red;
+    font-size: 15px;
+    border: none;
+    overflow: hidden;
+}
+
+#home-news {
+    background-color: rgba(15, 116, 143, 0.8);
+    width: 275px;
+    padding: 31px;
+    float: right;
+    margin: 155px;
+    height: 288px;
+    /*338*/
+    text-align: center;
+}
+
+#home-news li .news-content {
+    color: #fff;
+    line-height: 40px;
+}
+
+#home-news li a:hover {
+    cursor: pointer;
+}
+
+.gender-label {
+    margin-top: 6px;
+}
+
+.gender-label:nth-child(3) {
+    padding-left: 30px;
+}
+
+.reg-container {
+    height: 30px;
+    margin-left: 10%;
+}
+
+#regform {
+    padding-top: 15px;
+}
+
+#regform .reg-data-label {
+    margin-top: 10px;
+    width: 25%;
+    color: #000;
+}
+
+#regform .reg-data-label-tnc {
+    width: 100%;
+    margin-left: 32%;
+}
+
+#regform .reg-error-message {
+    margin-top: 10px;
+    color: #a94442;
+}
+
+.reg-data {
+    width: 33%;
+}
+
+#regform .reg-data {
+    height: 34px;
+    padding: 6px 10px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+}
+
+#reg-submit-button {
+    width: 15%;
+    float: left;
+    margin-left: 20%;
+    visibility: visible!important;
+}
+
+#reg-reset-button {
+    width: 15%;
+    float: right;
+    margin-right: 39%;
+    visibility: visible!important;
+}
+
+
+/*--------------------------------------------------------------------
+End of Registration CSS
+*/

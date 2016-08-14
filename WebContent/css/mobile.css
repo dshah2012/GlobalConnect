@@ -1,0 +1,384 @@
+@media only screen and (min-device-width: 120px) {
+	nav.navbar-static-top form{
+		width: auto;
+	}
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 766px) {
+    #experience-container {
+        display: none!important;
+    }
+    .custom {
+        width: 100%!important;
+    }
+    .searchbar {
+        width: 50%;
+        position: absolute;
+        bottom: 15%;
+        border-radius: 3px;
+        left: 13%;
+    }
+    .connect-me {
+        margin-left: 42%;
+    }
+    #hideshow{
+        display: none;
+    }
+    .main-header>.navbar {
+        height: 50px;
+    }
+    .nav>li {
+        position: absolute!important;
+        left: 87%;
+        top: 6%;
+    }
+    #search-results {
+        width: 50.3%;
+        position: fixed;
+        top: 93px!important;
+        left: 13%;
+        overflow: scroll;
+        max-height: 516px;
+        border-radius: 2px;
+    }
+    .connect-me {
+        visibility: hidden;
+    }
+    .connect-me-mobile {
+        margin-top: 8px;
+        margin-left: 40px;
+        visibility: visible;
+        width: 13%;
+        position: absolute;
+        left: 55%;
+        height: 65%;
+    }
+    .notification-wrapper {
+        left: 69%;
+        width: 31%;
+        position: relative;
+        top: 0;
+    }
+    .navbar-custom-menu>.navbar-nav>li>.dropdown-menu {
+        right: 3%;
+        top: 93%;
+    }
+    .modal-content1 {
+        background-color: #fefefe;
+        margin-left: 4%;
+        border: 1px solid #888;
+        width: 92%;
+        height: 370px;
+        opacity: 1;
+        overflow: scroll;
+    }
+    footer .connect-btn {
+        position: relative;
+        margin-top: 12%;
+        margin-left: -9%;
+    }
+    .connect-me-content .connect-me-form {
+        width: 100%;
+        margin-left: 0;
+    }
+    .connect-field {
+        width: 50%;
+        margin-right: 0;
+    }
+    #right-sidebar {
+        left: 148%;
+        width: 11%!important;
+        position: fixed;
+    }
+    .right-sidebar-desktop {
+        visibility: hidden;
+    }
+    .right-sidebar-mobile {
+        visibility: visible;
+    }
+    .dashboard-showcase {
+        margin-top: 10%;
+    }
+    .dashboard-showcase:nth-child(1) {
+        margin-left: 8%;
+    }
+    .profileComp-desktop {
+        visibility: hidden;
+    }
+    .profileComp-mobile {
+        visibility: visible;
+    }
+    .ion-custom {
+        margin: 30px 0 0 17px;
+    }
+    .chart-dash {
+        margin-top: 50%!important;
+        margin-left: -28%;
+    }
+    .profileCompletion {
+        position: relative;
+        right: 12%;
+        bottom: -5%;
+    }
+    .share-profile-desktop {
+        visibility: hidden;
+        color: black;
+        display: inline;
+        background-color: rgb(221, 221, 221);
+    }
+    .share-profile-mobile {
+        visibility: visible;
+        color: black;
+        display: inline;
+        background-color: rgb(221, 221, 221);
+        width: 120%;
+        position: relative;
+        left: 0%;
+        bottom: 130px;
+    }
+    svg {
+        margin-left: 17%;
+        width: 75%;
+    }
+    .stat-mobile {
+        visibility: visible;
+        margin-left: 45%;
+    }
+    .stat-desktop {
+        visibility: hidden;
+    }
+    .sidebar-menu>li>a {
+        padding: 11px 5px 12px 8px;
+    }
+    .hr-rule {
+        margin-left: 0;
+        margin-top: 160px;
+        width: 100%;
+    }
+    .hr-profile {
+        margin-top: 15px!important;
+    }
+    .live-greeting {
+        margin-left: 31%;
+    }
+    .live-create-btn-mobile {
+        visibility: visible;
+        margin-top: 3.5%;
+        margin-left: 2%;
+    }
+    .map-search {
+        position: relative;
+        width: 32%;
+        left: 0%;
+    }
+    .find-button {
+        display: none;
+    }
+    .live-create-btn {
+        visibility: hidden;
+    }
+    .live-url {
+        width: 31%;
+        margin-right: 2%;
+        margin-left: 25%;
+    }
+    .find-trainer-label {
+        margin-left: 25%;
+        margin-right: 25px;
+    }
+    .profileViews-mobile {
+        visibility: visible;
+    }
+    .profileViews {
+        visibility: hidden;
+    }
+    .url-unavailable-mobile {
+        visibility: visible;
+    }
+    .url-unavailable-desktop {
+        visibility: hidden;
+    }
+    .rightNavigation-mobile {
+        visibility: visible;
+    }
+    .rightNavigation {
+        visibility: hidden;
+    }
+    .map-here {
+        width: 70%!important;
+        height: 260px!important;
+        left: 7%;
+        top: -10px;
+    }
+    .c100.small {
+        font-size: 70px;
+    }
+    .trend-desktop {
+        visibility: hidden;
+    }
+    .trend-mobile {
+        visibility: visible;
+        margin-left: 19%;
+        width: 275px;
+        height: 320px;
+        margin-top: 3%;
+    }
+    /*Profile*/
+    .content-wrapper {
+        width: 90%;
+    }
+    .trend-mobile-profile {
+        visibility: visible;
+        margin-left: 0!important;
+        width: 100%;
+        height: 320px;
+        margin-top: 30px!important;
+    }
+    .hr-rule-profile {
+        margin-top: 40px!important;
+        margin-left: 0;
+        width: 100%;
+        border: 1px solid #000;
+    }
+    .live-greeting-profile {
+        margin-left: 20%;
+        font-size: 20px;
+    }
+    .live-url-profile {
+        width: 42%!important;
+        margin-right: 2%;
+        margin-left: 3%;
+        width: 400px;
+        float: left;
+        margin-top: 15px;
+    }
+    .map-here-profile {
+        left: 0!important;
+        margin-left: 0!important;
+    }
+    .iframe-account {
+        margin-left: 20%;
+        width: 267px;
+        height: 315px;
+    }
+    .iframe-profile {
+        margin-left: -2%;
+        width: 267px;
+        height: 315px;
+    }
+    .like-span-profile {
+        margin-left: 73%;
+        cursor: pointer;
+    }
+    .like-span-account {
+        margin-left: 77%;
+        cursor: pointer;
+    }
+    .panel-custom-account {
+        width: 80%;
+        margin-left: 20%;
+        margin-top: 10px;
+    }
+    .panel-custom-profile {
+        margin-top: 10px;
+    }
+    .post-btn {
+        position: relative;
+        left: 78%;
+        width: 20%;
+    }
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 480px) {
+    .map-here {
+        left: 11%;
+    }
+    .trend-mobile {
+        visibility: visible;
+        margin-left: 20%;
+        width: 315px;
+        height: 350px;
+    }
+    .c100.small {
+        font-size: 80px;
+    }
+    .iframe-account {
+        margin-left: 20%;
+        width: 320px;
+        height: 315px;
+    }
+    .iframe-profile {
+        margin-left: -2%;
+        width: 320px;
+        height: 315px;
+    }
+    .like-span-profile {
+        margin-left: 78%;
+        cursor: pointer;
+    }
+    .like-span-account {
+        margin-left: 78%;
+        cursor: pointer;
+    }
+}
+
+
+/*For Iphone 6 and 6+*/
+
+@media only screen and (min-device-width: 376px) and (max-device-width: 480px) {
+    .trend-mobile {
+        visibility: visible;
+        margin-left: 24%;
+        width: 75%;
+        height: 350px;
+    }
+    .iframe-account {
+        margin-left: 20%;
+        width: 335px;
+        height: 315px;
+    }
+    .like-span-account {
+        margin-left: 80%;
+        cursor: pointer;
+    }
+    .iframe-profile {
+        margin-left: -2%;
+        width: 350px;
+        height: 315px;
+    }
+}
+
+
+/*For Nexus*/
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 385px) {
+    .iframe-profile {
+        margin-left: -2%;
+        width: 305px!important;
+        height: 315px;
+    }
+    .like-span-profile {
+        margin-left: 75%;
+        cursor: pointer;
+    }
+    .profileCompletion {
+        position: relative;
+        right: 16%;
+        bottom: 0%;
+    }
+}
+
+@media only screen and (min-device-width: 386px) and (max-device-width: 480px) {
+    .profileCompletion {
+        position: relative;
+        right: 10%;
+        bottom: 0%;
+    }
+}
+
+
+/*For Landscape and Tablets*/
+
+
+/*@media only screen and (min-device-width: 480px) and (max-device-width: 1399px) {
+
+}*/

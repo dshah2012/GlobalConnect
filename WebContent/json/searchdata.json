@@ -1,0 +1,21 @@
+[{
+	"trainerProfileId": 1,
+	"firstName": "Abhishek",
+	"lastName": "Vaddi",
+	"skillName": ["Javascript", "AngularJS", "Java", "Jquery"],
+	"skillDurationInMonths": [2, 10, 15, 21],
+	"primaryMobileNo": 123456789,
+	"gender": "MALE",
+	"propertyNo": "58",
+	"streetName": "1phase",
+	"areaName": "RR Nagar",
+	"landmark": "Near dominos",
+	"city": "bangalore",
+	"state": "Karnataka",
+	"country": "India",
+	"pincode": 1234,
+	"primaryEmailId": "amadeus@amadeus.com",
+	"readyToRelocate": true,
+	"organizationName": "Amadeus",
+	"designation": "SSE"
+}]
